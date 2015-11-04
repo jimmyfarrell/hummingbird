@@ -1,0 +1,25 @@
+{
+  "name": "hummingbird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyfarrell/hummingbird.git"
+  },
+  "keywords": [],
+  "author": "Jimmy Farrell <jfarrell22@gmail.com> (http://heyjimmy.co)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyfarrell/hummingbird/issues"
+  },
+  "homepage": "https://github.com/jimmyfarrell/hummingbird#readme",
+  "dependencies": {
+    "koa": "^1.1.1",
+    "koa-static": "^1.5.1"
+  }
+}

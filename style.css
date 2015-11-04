@@ -1,0 +1,29 @@
+#hummingbird {
+  position: relative;
+  width: 612px;
+  height: 450px;
+  margin: 15vh auto 0 auto;
+}
+
+#silhouette {
+  position: absolute;
+  width: 612px;
+  height: 450px;
+  z-index: 2;
+  background-image: url("silhouette.png");
+}
+
+#overlay {
+  position: absolute;
+  width: 612px;
+  height: 450px;
+  z-index: 1;
+  opacity: 0.1;
+}
+
+#sunburst {
+  position: absolute;
+  width: 610px;
+  height: 448px;
+  z-index: 0;
+}
