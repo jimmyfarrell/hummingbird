@@ -10,7 +10,7 @@
   width: 612px;
   height: 450px;
   z-index: 2;
-  background-image: url("silhouette.png");
+  background-image: url("/images/silhouette.png");
 }
 
 #overlay {
